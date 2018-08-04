@@ -1,0 +1,11 @@
+.idea/
+*.iml
+.project
+.settings/
+.classpath
+target/
+dist/
+.DS_Store
+soa-backup
+*dist.tgz
+
